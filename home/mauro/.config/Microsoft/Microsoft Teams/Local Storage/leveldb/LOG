@@ -1,8 +1,0 @@
-2022/06/26-16:01:12.458 f6e Reusing MANIFEST /home/mauro/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
-2022/06/26-16:01:12.459 f6e Recovering log #6
-2022/06/26-16:01:12.462 f6e Level-0 table #9: started
-2022/06/26-16:01:12.509 f6e Level-0 table #9: 556078 bytes OK
-2022/06/26-16:01:12.516 f6e Delete type=0 #6
-2022/06/26-16:01:50.035 1040 Level-0 table #12: started
-2022/06/26-16:01:50.037 1040 Level-0 table #12: 67895 bytes OK
-2022/06/26-16:01:50.038 1040 Delete type=0 #10

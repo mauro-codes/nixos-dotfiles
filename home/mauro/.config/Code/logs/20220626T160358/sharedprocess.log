@@ -1,9 +1,0 @@
-[2022-06-26 16:04:04.279] [sharedprocess] [info] Starting worker process with pid 1663 (type: fileWatcher, window: 1).
-[2022-06-26 16:04:07.835] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
-[2022-06-26 16:04:11.925] [sharedprocess] [info] Getting Manifest... catppuccin.catppuccin-vsc
-[2022-06-26 16:04:11.937] [sharedprocess] [info] Installing extension: catppuccin.catppuccin-vsc
-[2022-06-26 16:04:13.930] [sharedprocess] [info] Downloaded extension: catppuccin.catppuccin-vsc /home/mauro/.config/Code/CachedExtensionVSIXs/catppuccin.catppuccin-vsc-1.0.6
-[2022-06-26 16:04:13.996] [sharedprocess] [info] Extracted extension to /home/mauro/.vscode/extensions/.f2ff38e3-6d82-45b4-a5b5-0d7267aaa1f5: catppuccin.catppuccin-vsc
-[2022-06-26 16:04:13.999] [sharedprocess] [info] Renamed to /home/mauro/.vscode/extensions/catppuccin.catppuccin-vsc-1.0.6
-[2022-06-26 16:04:14.000] [sharedprocess] [info] Extracting completed. catppuccin.catppuccin-vsc
-[2022-06-26 16:04:14.014] [sharedprocess] [info] Extension installed successfully: catppuccin.catppuccin-vsc
