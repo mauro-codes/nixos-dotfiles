@@ -1,0 +1,8 @@
+2022/06/26-16:01:17.274 f70 Reusing MANIFEST /home/mauro/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/26-16:01:17.274 f70 Recovering log #25
+2022/06/26-16:01:17.275 f70 Reusing old log /home/mauro/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000025.log 
+2022/06/26-16:01:23.995 fda Compacting 1@1 + 1@2 files
+2022/06/26-16:01:24.081 fda Generated table #28@1: 1361 keys, 2145536 bytes
+2022/06/26-16:01:24.127 fda Generated table #29@1: 4142 keys, 1575023 bytes
+2022/06/26-16:01:24.127 fda Compacted 1@1 + 1@2 files => 3720559 bytes
+2022/06/26-16:01:24.127 fda compacted to: files[ 0 0 4 0 0 0 0 ]
